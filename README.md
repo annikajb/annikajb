@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @annikajb
-- 👀 I’m interested in climate science
-- 🌱 I’m currently learning something new each day
-- 💞️ I’m looking to collaborate on climate science programming
+- 👋 Hi, I’m Annika Jahnke-Bornemann @annikajb
+- 👀 I’m interested in climate science and precipitation 
+- 🌱 I’m currently learning something new each day, currently it's KI technology
+- 💞️ I’m looking to .. christmas :)
 - 📫 How to reach me: I am on planet earth.
 
 <!---
